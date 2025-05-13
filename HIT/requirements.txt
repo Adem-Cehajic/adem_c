@@ -1,0 +1,14 @@
+cython
+wheel
+trimesh
+omegaconf
+scikit-image 
+matplotlib
+tqdm
+wandb
+pyrender
+datasets
+hydra-core
+pysdf
+pytorch-lightning==1.9.0
+prettytable
